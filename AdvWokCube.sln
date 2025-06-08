@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdvWokCube", "AdvWokCube.dwproj", "{73505B0C-4038-B029-3851-941AB56D1CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73505B0C-4038-B029-3851-941AB56D1CC5}.Development|Default.ActiveCfg = Development
+		{73505B0C-4038-B029-3851-941AB56D1CC5}.Development|Default.Build.0 = Development
+		{73505B0C-4038-B029-3851-941AB56D1CC5}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE43DAF-C7C9-4B97-A3D7-FFCE79AC52EA}
+	EndGlobalSection
+EndGlobal
